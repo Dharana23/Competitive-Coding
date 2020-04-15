@@ -64,7 +64,7 @@ while True:
     print('\n 1. Add element')
     print('\n 2. Search element')
     print('\n 3. Print tree')
-    print('\n 1. Delete tree and exit')
+    print('\n 4. Delete tree and exit')
     
     choice = int(input('\n Enter your choice:'))
 
